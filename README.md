@@ -12,7 +12,7 @@ This is my first portfolio project and the app is programmed to simulate the rea
 - Lack of savings
 - Financial stress
 
-**What this Portfolio Project will Not Solve:
+**What this Portfolio Project will Not Solve:**
 
 While this Budget app for Android can help users manage their finances effectively, it will not address the following:
 
@@ -20,7 +20,7 @@ While this Budget app for Android can help users manage their finances effective
 - Provide personalized tax planning or legal advice.
 - Guarantee financial success; users’ financial situations and success depends on their actions and discipline.
 
-**Who the Portfolio Project Will Help:
+**Who the Portfolio Project Will Help:**
 The Budget Tracker App for Android is designed to help a wide range of users, including:
 
 - Individuals who want to gain better control over their personal finances.
