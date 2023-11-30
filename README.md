@@ -77,3 +77,5 @@ Acceptance Criteria:
 ### Research process content
 
 [MyHabit proposal.](https://docs.google.com/document/d/1tckvSW8GcSf2BXiOhoYN8RCAQzcaSJsnOD95k9z3J5Y/edit?usp=sharing)
+[MyHabit MVP specification](https://docs.google.com/document/d/1Eslm_4VAo_pu3xz7-qwnIL-36IIAZCSII4DO8KN5hzk/edit?usp=sharing)
+[MyHabit MVP status update](https://docs.google.com/document/d/1S7HpxGx0fWRpPBqdVYj-z_qrmskpIJyMybnRRBoHHb4/edit?usp=sharing)
